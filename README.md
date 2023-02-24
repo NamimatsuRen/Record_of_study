@@ -67,7 +67,7 @@ Markdown記法に慣れるため，リポジトリに勉強の記録を行う．
 ### リモートリポジトリにpushする
 
 - ローカルリポジトリとリモートリポジトリを紐付ける
-  - `git remote add origin https://github.com/ユーザ/[作成したリポジトリ].git` 
+  - `git remote add origin https://github.com/ユーザ/[作成したリポジトリ].git`
 - リモートリポジトリに反映させる
   - `git push origin main`
 
@@ -113,7 +113,6 @@ README.mdの変更が反映されない．githubぐらい上手く使えるよ�
 2. 強制的にプッシュする
    - `git push -f origin main`
 
-
 - 発生したエラー
 
 ```bash
@@ -142,3 +141,9 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 バイトが終わったらテレビ見て寝てるだけの日が一週間ぐらい続いてしまった．
 たぶん，今日なにも書かなかったらこのままリポジトリを消してたと思う．
 今日はTwitterで見つけた**codeium**が初期ユーザーは永久無料らしいから，ダウンロードしとく．
+なにか作りたいということで，Fllutterでスマホアプリを作ろうと思う．
+
+- Fllutterを使う理由
+
+1. Xcodeで挫折したため．・・・Hello Worldの出力だけでもごく稀に上手くいかないことがある．いつか再挑戦したい．
+2. クロスプラットフォームでAndroidとiosで公開できる．．・・・せっかくなら多くの人に使ってもらいたい．
